@@ -60,3 +60,16 @@ body{
     top: 0;
     width: 100%;
 }
+.btn-container{
+    position: relative;
+    width: 80%;
+}
+.btn{
+    position: absolute;
+    bottom: -80px;
+    background-color: slateblue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
